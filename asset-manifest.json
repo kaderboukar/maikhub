@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maikhub/static/css/main.63c765ba.css",
+    "main.js": "/maikhub/static/js/main.58ab66d1.js",
+    "static/media/service-1.svg": "/maikhub/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/avatar-2.svg": "/maikhub/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/maikhub/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/service-3.svg": "/maikhub/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/maikhub/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/logo.svg": "/maikhub/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
+    "static/media/dots-bg.svg": "/maikhub/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/maikhub/index.html",
+    "main.63c765ba.css.map": "/maikhub/static/css/main.63c765ba.css.map",
+    "main.58ab66d1.js.map": "/maikhub/static/js/main.58ab66d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c765ba.css",
+    "static/js/main.58ab66d1.js"
+  ]
+}
