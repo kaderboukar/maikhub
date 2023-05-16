@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/maikhub/static/css/main.99b376cb.css",
-    "main.js": "/maikhub/static/js/main.59a5a480.js",
+    "main.css": "/maikhub/static/css/main.894bbf0f.css",
+    "main.js": "/maikhub/static/js/main.b939dded.js",
     "static/media/work-4.svg": "/maikhub/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
     "static/media/work-3.svg": "/maikhub/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
     "static/media/avatar-3.svg": "/maikhub/static/media/avatar-3.605f4f9b2d464df4897817a6278e52d7.svg",
@@ -17,11 +17,11 @@
     "static/media/logo.svg": "/maikhub/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
     "static/media/dots-bg.svg": "/maikhub/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/maikhub/index.html",
-    "main.99b376cb.css.map": "/maikhub/static/css/main.99b376cb.css.map",
-    "main.59a5a480.js.map": "/maikhub/static/js/main.59a5a480.js.map"
+    "main.894bbf0f.css.map": "/maikhub/static/css/main.894bbf0f.css.map",
+    "main.b939dded.js.map": "/maikhub/static/js/main.b939dded.js.map"
   },
   "entrypoints": [
-    "static/css/main.99b376cb.css",
-    "static/js/main.59a5a480.js"
+    "static/css/main.894bbf0f.css",
+    "static/js/main.b939dded.js"
   ]
 }
